@@ -1,5 +1,5 @@
 # Big-Data-Analytics
-SI 699 - Capstone Project
+## SI 699 - Capstone Project: Biased Restaurant Reviews: Starbucks in NYC
 
 * Formulating data-driven research questions, selecting the appropriate techniques to analyse data to address these questions, and critically reflecting on the contributions, limitations and broader implications of your work;
 
