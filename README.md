@@ -9,10 +9,9 @@ The analysis will first focus on boroughs in New York City due to the time limit
 The analysis result of this case study will provide the business owners the insight into how to satisfy the customers and run a business successfully in each region.
 
 ### Methods
-To understand the customers’ reviews and the related sentiment towards certain aspects of Starbucks, we implemented two models:
+To understand the customers’ reviews and the related sentiment towards certain aspects of Starbucks, we implemented two models and Correlation Analysis:
 * Aspect Extractor: extract the opinion aspects and polarity from each review sentence
 * Aspect Classifier: classify the aspects for further analysis
-* Correlation Analysis
 
 ### Conclusion and discussion
 Overall, for NYC specifically, although the ratings of Starbucks are only 4% higher in low income regions, according to our literacutre review, this might be because business owners might spot an opportunity to gain customers by improving their customer service, especially in low income areas. In addition, patrons living in low income neighborhoods would have the ammunition to demand better customer service in the restaurants they frequent. And city hall officials might also see this as a form of income segregation and work harder to ensure restaurants in low income areas have the same amenities and service levels as those in middle or high income areas. However, we did not see a strong relationship between reviews and income levels.
@@ -39,13 +38,23 @@ category.
 
 ### References
 [1] Lian, J.; Zhang, F.; Xie, X.; Sun, G. Proceedings of the 26th International Conference on World Wide Web Companion; WWW ’17 Companion; International World Wide Web Conferences Steering Committee: Republic and Canton of Geneva, CHE, 2017; p 993–1002.
+
 [2] Muchnik, L.; Aral, S.; Taylor, S. Social Influence Bias: A Randomized Experiment. Science (New York, N.Y.) 2013, 341, 647–51.
+
 [3] Mbuthia, J. Is there a correlation between a restaurants ratings and the income levels of a neighborhood? (August 2019); https://medium.com/swlh/is-there-a-correlation-between-a-restaurantsratings- and-the-income-levels-of-a-neighborhood-5fe41165e4f1.
+
 [4] Hossain, N.; Bhuiyan, M. R.; Tumpa, Z. N.; Hossain, S. A. Sentiment Analysis of Restaurant Reviews using Combined CNN-LSTM. 2020 11th International Conference on Computing, Communication and Networking Technologies (ICCCNT). 2020; pp 1–5.
+
 [5] Yang, H.; Zeng, B.; Yang, J.; Song, Y.; Xu, R. A multi-task learning model for Chinese-oriented aspect polarity classification and aspect term extraction. Neurocomputing 2021, 419, 344–356.
+
 [6] Jurafsky, D.; Chahuneau, V.; Routledge, B.; Smith, N. Narrative framing of consumer sentiment in online restaurant reviews. First Monday 2014, 19.
+
 [7] Octoparse. https://www.octoparse.com/.
+
 [8] Miller, G. A. WordNet: a lexical database for English. Communications of the ACM 1995, 38, 39–41.
+
 [9] Yang, H.; Li, K. PyABSA: Open Framework for Aspect-based Sentiment Analysis. 2022; https://arxiv.org/abs/2208.01368.
+
 [10] Sculley, D. Web-scale k-means clustering. Proceedings of the 19th international conference on World wide web. 2010; pp 1177–1178.
+
 [11] Haskova, K., et al. Starbucks marketing analysis. CRIS-Bulletin of the Centre for Research and Interdisciplinary Study 2015, 1, 11–29.
